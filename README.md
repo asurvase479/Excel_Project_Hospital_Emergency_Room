@@ -3,7 +3,7 @@
 I recently had the opportunity to develop a comprehensive Hospital Emergency Room Dashboard to monitor and analyze patient flow and care quality. This project allowed me to apply a full spectrum of data analysis and visualization skills in Power Query, Power Pivot, and Excel.
 
 
-📌*** Project Workflow:***
+📌 Project Workflow:
 1)Business requirement gathering
 2)Understanding of data
 3)Data connection (Import data using power query)
