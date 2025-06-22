@@ -1,10 +1,10 @@
 # Excel_Project_Hospital_Emergency_Room
 
 
-🚑 # Emergency Room Dashboard Project Completed!
+🚑 Emergency Room Dashboard Project Completed!
 I recently had the opportunity to develop a comprehensive Hospital Emergency Room Dashboard to monitor and analyze patient flow and care quality. This project allowed me to apply a full spectrum of data analysis and visualization skills in Power Query, Power Pivot, and Excel.
 
-📌 # Project Workflow:
+📌 Project Workflow:
 1️⃣ Business Requirement Gathering
 2️⃣ Understanding the Data
 3️⃣ Data Connection using Power Query
@@ -17,7 +17,7 @@ I recently had the opportunity to develop a comprehensive Hospital Emergency Roo
 🔟 Final Dashboard Development
 ✅ Insight Generation for Informed Decision-Making
 
-📊 # Key KPIs & Visualizations:
+📊 Key KPIs & Visualizations:
 
 No. of Patients: Trend analysis via area chart to identify peak days
 
